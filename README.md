@@ -1,4 +1,4 @@
-# demo-secret-sharing
+# secret-sharing
 This is an implementation of the Shamir's secret sharing scheme in Scala 3
 
 # Dealer test
